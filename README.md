@@ -8,3 +8,5 @@ I used the Pandas and Seaborn Python libraries to explore and visualize the data
 * I learned how to use Pandas Python library to gather and prepare data for analysis, including handling missing values, removing duplicates, and converting data types to ensure a clean and usable dataset.
 *	I developed an understanding of EDA techniques using Python and Pandas, summarizing data with descriptive statistics, visualizing distributions and relationships with Matplotlib and Seaborn, and identifying patterns and trends that could indicate customer churn.
 *	I enhanced skills in visualizing data to uncover insights and communicate findings effectively using various types of plots such as histograms, scatter plots, and heatmaps.
+
+If you have any questions regarding this project, please feel free to reach out to me on LinkedIn: [Parmveer Sohal](https://ca.linkedin.com/in/parmveer-sohal).
